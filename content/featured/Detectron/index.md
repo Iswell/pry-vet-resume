@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'Detectron2 Implementation'
-cover: './detectron.png'
+title: 'Veterinary Degree'
+cover: './prylabo.jpg'
 github: 'https://github.com/saadhaxxan/Detectron2_Demo_Windows_10'
 tech:
   - OpenCV
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-This project demonstrate the process of getting started with Facebook FAIR's detectron2 project on windows 10 without any Nvidia GPU..
+University of Santiago de Compostela (Galicia, Spain)

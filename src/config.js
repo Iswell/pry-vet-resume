@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'saadhaxxan@ieee.org',
+  email: 'pry1718@hotmail.com',
 
   socialMedia: [
     {

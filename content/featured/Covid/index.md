@@ -1,7 +1,7 @@
 ---
-date: '2'
-title: 'Covid 19 Dashboard'
-cover: './covid.png'
+date: '2016'
+title: 'Veterinary Degree'
+cover: './me.jpeg'
 github: 'https://github.com/saadhaxxan/Covid-19-Dashboard'
 external: 'https://covid-19dashboard.herokuapp.com/'
 tech:
@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-THIS DASHBOARD CONTINUOUSLY QUERIES PUBLIC DATABASES AND UPDATES CASES FOR ALL COUNTRIES.
+University of Santiago de Compostela (Galicia, Spain)

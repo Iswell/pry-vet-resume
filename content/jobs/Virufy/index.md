@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Research and Development Engineer'
-company: 'Virufy'
-location: 'California, US'
-range: 'April 2020 - August 2020'
+date: '2018-04-14'
+title: 'Veterinarian'
+company: 'Naya Clínica Veterinaria'
+location: 'Galicia, Spain'
+range: 'Oct 2017 - Apr 2018'
 url: 'https://www.virufy.org/'
 ---
 
  
-- Did Research on signal processing and audio analysis using state of the deep learning models.
-- Implemented serveral architectures on sample audio data with good results. Developed a full workflow of the whole product from development to deployment.
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Veterinary clinical assistant.
+- Pet boarder and receptionist.
